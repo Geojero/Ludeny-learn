@@ -1,0 +1,5 @@
+"homepage": "https://Geojero.github.io/Ludeny-learngit ",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
