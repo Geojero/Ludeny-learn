@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Udemy-Clone-ReactJS-master/static/css/main.20e35d96.css",
+    "main.js": "/Udemy-Clone-ReactJS-master/static/js/main.0167c158.js",
+    "static/js/787.07d828f8.chunk.js": "/Udemy-Clone-ReactJS-master/static/js/787.07d828f8.chunk.js",
+    "index.html": "/Udemy-Clone-ReactJS-master/index.html",
+    "main.20e35d96.css.map": "/Udemy-Clone-ReactJS-master/static/css/main.20e35d96.css.map",
+    "main.0167c158.js.map": "/Udemy-Clone-ReactJS-master/static/js/main.0167c158.js.map",
+    "787.07d828f8.chunk.js.map": "/Udemy-Clone-ReactJS-master/static/js/787.07d828f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e35d96.css",
+    "static/js/main.0167c158.js"
+  ]
+}
